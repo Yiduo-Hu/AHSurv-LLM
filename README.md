@@ -18,3 +18,4 @@ Lung adenocarcinoma (LUAD) exhibits substantial heterogeneity in survival outcom
 
 ## Framework
 The overall architecture of AHSurv-LLM is illustrated below.
+![framework](figures/framework.jpg)

@@ -19,3 +19,51 @@ Lung adenocarcinoma (LUAD) exhibits substantial heterogeneity in survival outcom
 ## Framework
 The overall architecture of AHSurv-LLM is illustrated below.
 ![framework](figures/framework.jpg)
+
+## Data Availability
+**UCSC Xena TCGA-LUAD dataset:**
+
+Gene Expression RNAseq-STAR-TPM: https://xenabrowser.net/datapages/?dataset=TCGA-LUAD.star_tpm.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443
+
+Survival Data: https://xenabrowser.net/datapages/?dataset=TCGA-LUAD.survival.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443
+
+**GEO datasets:**
+
+GSE30219: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE30219
+
+GES31320: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE31210
+
+GSE50081: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE50081
+
+GSE37745: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE37725
+
+GSE68465: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE68465
+
+GSE72094: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE72094
+
+## Requirements
+|  Key Requirements | Version |
+|-------|------|
+| `Python` | 3.12.10 |
+| `torch` | 2.13.0 |
+| `numpy` | 2.5.1 |
+| `pandas` | 2.3.3 |
+| `scikit-learn` | 1.9.0 |
+| `matplotlib` | 3.11.1 |
+| `openai` | 2.32.0 |
+| `biopython` | 1.87 |
+
+## Contact
+
+The manuscript associated with this project is currently under review. Citation information will be added after publication.
+
+Questions about the project may be directed to the corresponding author listed in the manuscript.
+
+
+
+
+
+
+
+
+

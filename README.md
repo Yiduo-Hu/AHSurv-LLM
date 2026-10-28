@@ -53,11 +53,6 @@ GSE72094: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE72094
 | `openai` | 2.32.0 |
 | `biopython` | 1.87 |
 
-## Contact
-
-The manuscript associated with this project is currently under review. Citation information will be added after publication.
-
-Questions about the project may be directed to the corresponding author listed in the manuscript.
 
 
 
